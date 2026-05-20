@@ -1,0 +1,52 @@
+{
+  "name": "canonical-json",
+  "version": "0.4.0",
+  "description": "a canonical json implementation",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    },
+    "./hash": {
+      "types": "./hash.d.ts",
+      "import": "./hash.js"
+    }
+  },
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "stringify.js",
+    "stringify-copy.js",
+    "canonical-json.js",
+    "walk.js",
+    "hash.js",
+    "hash.d.ts"
+  ],
+  "bin": {
+    "canonical-json": "./canonical-json.js"
+  },
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "json",
+    "canonical",
+    "deterministic",
+    "stringify",
+    "sorted",
+    "stable"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirkokiefer/canonical-json.git"
+  },
+  "homepage": "https://github.com/mirkokiefer/canonical-json",
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "MIT"
+}
