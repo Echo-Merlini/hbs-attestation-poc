@@ -1,0 +1,14 @@
+{
+  "registry": "0xe61f5a6783ae09949b9a1b6821b68f89c0d7bb2d",
+  "agent_id": "5",
+  "action_type": "chat",
+  "raw_input_hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+  "sanitization_pipeline_hash": "8116eec29078e8f57c07077d5e8080a35bde73036581df3abb93755d1b1a16ea",
+  "input_hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+  "output_hash": "74b4d50e1b13e3a8ef9492c34f5c0af2d3a46dda11bb59378026207eea9b434b",
+  "manifest_hash": "0a56e06bbff01de7c1955dc902fadcd4f7b893bc6fc260f9253d779c220a569e",
+  "l4_signature": "0xd3eb65203317d3775ef25dc22328ea4bd82624b8836d590706f4ad578efb43006ba4cdc4df3686ca9f0960b033306696ae0adcc85f7034dec9781e4e227d45681b",
+  "l3_tx": "0xc3aeb16d0aef167e2ebc6d4afc9333fcd13a71b8c02e5485bc6be7491e393319",
+  "l3_chain": "84532",
+  "created_at": "1779231272"
+}
