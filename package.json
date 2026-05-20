@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@tunnckocore/hbs": "latest",
+    "@tunnckocore/hbs": "0.3.0",
     "png-chunk-text": "latest",
     "png-chunks-encode": "latest",
     "png-chunks-extract": "latest",

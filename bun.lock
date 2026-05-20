@@ -5,7 +5,7 @@
     "": {
       "name": "hbs-attestation-poc",
       "dependencies": {
-        "@tunnckocore/hbs": "latest",
+        "@tunnckocore/hbs": "0.3.0",
         "png-chunk-text": "latest",
         "png-chunks-encode": "latest",
         "png-chunks-extract": "latest",
